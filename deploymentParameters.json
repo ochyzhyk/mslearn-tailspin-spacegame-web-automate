@@ -6,10 +6,10 @@
             "value": "-dev-"
         },
         "keyVaultName": {
-          "value": ""
+          "value": "tailspin-vault-23403"
         },
         "uniqueSuffix": {
-            "value": ""
+            "value": "23403"
         },
         "adminPassword": {
             "reference": {
